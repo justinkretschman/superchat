@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/superchat-master/static/css/main.a3267dda.chunk.css",
+    "main.js": "/superchat-master/static/js/main.39ebe346.chunk.js",
+    "main.js.map": "/superchat-master/static/js/main.39ebe346.chunk.js.map",
+    "runtime-main.js": "/superchat-master/static/js/runtime-main.1f51c0c3.js",
+    "runtime-main.js.map": "/superchat-master/static/js/runtime-main.1f51c0c3.js.map",
+    "static/js/2.8561158b.chunk.js": "/superchat-master/static/js/2.8561158b.chunk.js",
+    "static/js/2.8561158b.chunk.js.map": "/superchat-master/static/js/2.8561158b.chunk.js.map",
+    "static/js/3.6581eb53.chunk.js": "/superchat-master/static/js/3.6581eb53.chunk.js",
+    "static/js/3.6581eb53.chunk.js.map": "/superchat-master/static/js/3.6581eb53.chunk.js.map",
+    "index.html": "/superchat-master/index.html",
+    "static/css/main.a3267dda.chunk.css.map": "/superchat-master/static/css/main.a3267dda.chunk.css.map",
+    "static/js/2.8561158b.chunk.js.LICENSE.txt": "/superchat-master/static/js/2.8561158b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f51c0c3.js",
+    "static/js/2.8561158b.chunk.js",
+    "static/css/main.a3267dda.chunk.css",
+    "static/js/main.39ebe346.chunk.js"
+  ]
+}
